@@ -3,7 +3,7 @@
 
 ### 1.全景视频+物体表面播放视频
 
-<img src="http://demo.treedom.cn/CoverPicture/threejs.videotexture.wyl.gif" alt="threejs.videotexture.wyl" style="width:300px;" />
+<img src="http://demo.treedom.cn/CoverPicture/threejs.videotexture.wyl.jpg" alt="threejs.videotexture.wyl" style="width:300px;" />
 
 [体验地址](http://demo.treedom.cn/threejs.videotexture.wyl/index.html)
 
