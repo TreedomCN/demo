@@ -5,8 +5,6 @@
 
 <img src="http://demo.treedom.cn/CoverPicture/threejs.videotexture.wyl.gif" alt="threejs.videotexture.wyl" style="width:300px;" />
 
-<img src="http://demo.treedom.cn/CoverPicture/threejs.videotexture.wyl.jpg" alt="threejs.videotexture.wyl" style="width:300px;" />
-
 [体验地址](http://demo.treedom.cn/threejs.videotexture.wyl/index.html)
 
 关键技术：threejs、视频、贴图
