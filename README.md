@@ -12,7 +12,7 @@
 作者：魏宇林
 
 ## 2d技术
-<img src="http://demo.treedom.cn/CoverPicture/pixi.kp.wy2.jpg" style="width:300px;" />
+<img src="http://demo.treedom.cn/CoverPicture/pixi.kp.wy2.jpg" style="width:100px;" />
 
 [体验地址](http://wydemo.treedom.cn/pixikp/)
 
