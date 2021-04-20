@@ -23,7 +23,13 @@
 ## Shader技术
 
 ## HTML5技术
+<img src="http://demo.treedom.cn/CoverPicture/canvas.lizi.wy.jpg" style="width:300px;" />
 
+[体验地址](http://wydemo.treedom.cn/lizi/)
+
+关键技术：canvas、绘制
+
+作者：文洋
 ## 传感器
 
 ## 其它
