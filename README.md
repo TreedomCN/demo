@@ -12,8 +12,8 @@
 作者：魏宇林
 
 ## 2d技术
-![pixi kp wy](https://user-images.githubusercontent.com/37623182/115348281-03e73980-a1e5-11eb-95ae-0b944a063a1c.jpg style="width:300px;")
-
+![pixi kp wy](https://user-images.githubusercontent.com/37623182/115348281-03e73980-a1e5-11eb-95ae-0b944a063a1c.jpg")
+<img src="http://demo.treedom.cn/CoverPicture/pixi.kp.wy.jpg" style="width:300px;" />
 
 [体验地址](http://wydemo.treedom.cn/pixikp/)
 
