@@ -20,6 +20,22 @@
 
 作者：文洋
 
+![image-20210420180334668](http://cdn.snowzen.cn/blog/image-20210420180334668.png)
+
+[体验地址](http://demo.treedom.cn/pixi-spine-test-xsy/?stats=1)
+
+关键技术：pixijs、spine、骨骼动画
+
+作者：谢升勇
+
+![image-20210420180541805](http://cdn.snowzen.cn/blog/image-20210420180541805.png)
+
+[体验地址](http://demo.treedom.cn/cocoscreator-2d-light-xsy/0326/)
+
+关键技术：CocosCreator、light、shadow
+
+作者：谢升勇
+
 ## Shader技术
 
 ## HTML5技术
